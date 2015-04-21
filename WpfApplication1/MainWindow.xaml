@@ -26,6 +26,7 @@
         </Button>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="223,34,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="16" Width="76"/>
         <TextBlock HorizontalAlignment="Left" Margin="322,121,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="15" Width="55"/>
+        <Button Grid.ColumnSpan="2" Content="按键4" HorizontalAlignment="Left" Margin="43,237,0,0" VerticalAlignment="Top" Width="75" ClickMode="Press" Click="Button_Click"/>
 
     </Grid>
 </Window>

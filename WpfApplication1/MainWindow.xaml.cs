@@ -39,5 +39,10 @@ namespace WpfApplication1
         {
             MessageBox.Show("这是按键3");
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("这是案件4");
+        }
     }
 }
